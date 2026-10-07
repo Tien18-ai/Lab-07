@@ -10,7 +10,8 @@
 ## DANH SÁCH ĐƯỜNG LINK SẢN PHẨM LAB 07 
 
 ### 1. Bài 1: Google Form Nâng Cao 
- **Bài 1a (Thu thập thông tin SV K52 - Khóa ngày 01/12/2026)**: [https://docs.google.com/forms/d/1_AjKG3tUlilWZZU1ehubeSqEubdCSuGGS0Rx6088w-E/edit] * 
+ **Bài 1a (Thu thập thông tin SV K52 - Khóa ngày 01/12/2026)**: [https://docs.google.com/forms/d/1_AjKG3tUlilWZZU1ehubeSqEubdCSuGGS0Rx6088w-E/edit] 
+ 
  **Bài 1b (Đăng ký tham quan TMA Solutions - Giới hạn 80 SV)**: [https://docs.google.com/forms/d/1qHJdo2r4BZtaO1Kj6YEOK2HwQOcFiMH1rwBdUd5U3Ec/edit] 
 
 ### 2. Bài 2:  Sử dụng Google Sites/GitHub Pages tạo trang giới thiệu bản thân.
